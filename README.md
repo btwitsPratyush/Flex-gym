@@ -22,21 +22,6 @@ A modern, high-converting landing page for FLEX GYM, featuring dynamic 3D animat
 - Tailwind CSS
 - Vite
 
-## 💻 Development
-
-To get started with development:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/flex-gym.git
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
 ## 🏗️ Project Structure
 
 ```
