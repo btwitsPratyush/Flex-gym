@@ -72,7 +72,7 @@ src/
    - Member testimonials
    - Achievement highlights
 
-## 👥 Team
+## 👥 Team:-
 
 Designed and developed by Pratyush
 
