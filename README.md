@@ -13,7 +13,7 @@ A modern, high-converting landing page for FLEX GYM, featuring dynamic 3D animat
 - Mobile-responsive design
 - Performance optimized
 
-## 🚀 Technologies Used
+## 🚀 Technologies Used:-
 
 - React 18
 - TypeScript
