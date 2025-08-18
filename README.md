@@ -2,7 +2,7 @@
 
 A modern, high-converting landing page for FLEX GYM, featuring dynamic 3D animations and a responsive design. Built with React, TypeScript, and Three.js.
 
-## 🌟 Features
+## 🌟 Features:-
 
 - Dynamic 3D animations of fitness equipment
 - Smooth parallax scrolling effects
