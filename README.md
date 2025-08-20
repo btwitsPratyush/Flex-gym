@@ -22,7 +22,7 @@ A modern, high-converting landing page for FLEX GYM, featuring dynamic 3D animat
 - Tailwind CSS
 - Vite
 
-## 🏗️ Project Structure
+## 🏗️ Project Structure:-
 
 ```
 src/
