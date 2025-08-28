@@ -45,7 +45,7 @@ src/
 └── App.tsx
 ```
 
-## 🎨 Key Features
+## 🎨 Key Features:-
 
 1. **3D Equipment Showcase**
    - Interactive 3D models of gym equipment
